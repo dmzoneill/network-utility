@@ -1,0 +1,27 @@
+
+ Windows IP Configuration
+ 
+         Host Name . . . . . . . . . . . . : com
+         Primary Dns Suffix  . . . . . . . : 
+         Node Type . . . . . . . . . . . . : Unknown
+         IP Routing Enabled. . . . . . . . : No
+         WINS Proxy Enabled. . . . . . . . : No
+ 
+ Ethernet adapter Wireless Network Connection:
+ 
+         Media State . . . . . . . . . . . : Media disconnected
+         Description . . . . . . . . . . . : Wireless CB54G3/MP54G3 Wireless LAN Card
+         Physical Address. . . . . . . . . : 00-13-D3-00-D2-E5
+ 
+ Ethernet adapter Local Area Connection:
+ 
+         Media State . . . . . . . . . . . : Media disconnected
+         Description . . . . . . . . . . . : Realtek RTL8139 Family PCI Fast Ethernet NIC
+         Physical Address. . . . . . . . . : 00-0C-76-F8-BA-8A
+ 
+ Ethernet adapter Local Area Connection 3:
+ 
+         Media State . . . . . . . . . . . : Media disconnected
+         Description . . . . . . . . . . . : Bluetooth PAN Network Adapter
+         Physical Address. . . . . . . . . : 00-11-09-E6-51-CE
+ 

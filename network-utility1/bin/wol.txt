@@ -1,0 +1,192 @@
+WakeUp 00-30-05-01-B2-2F ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-30-05-01-B9-1E ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-01-02-43-55-D3 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-30-05-01-B9-D9 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-01-02-44-64-99 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-30-05-01-B3-66 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-01-02-44-5C-FC ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-30-05-01-B3-71 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-30-05-01-B2-24 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-30-05-01-BC-F4 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-30-05-01-AD-E9 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-30-05-01-B0-C6 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-30-05-01-AE-74 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-30-05-01-B2-0B ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-01-02-44-4F-62 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-30-05-01-B2-27 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-30-05-01-BA-2F ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-30-05-01-B2-29 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-30-05-01-B3-15 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-30-05-01-B2-2B ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-30-05-01-BA-CE ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-30-05-01-BA-A5 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-30-05-01-B9-E5 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp N/S ...
+Result: Invalid MAC address
+Ready.
+
+WakeUp 00-30-05-01-B3-79 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-30-05-01-BA-14 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-30-05-01-BC-6B ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-01-02-44-50-D4 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-30-05-01-B9-B7 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-01-02-44-50-43 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-30-05-01-B2-0F ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-30-05-01-BA-D3 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-01-02-44-65-04 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-0F-EA-19-9B-51 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-0F-EA-1A-35-64 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-0F-EA-19-AA-BF ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-0F-EA-19-BC-8D ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-0F-EA-1A-24-6D ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-0F-EA-19-BF-64 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-0F-EA-19-BB-06 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-0F-EA-19-BB-54 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-0F-EA-1B-DE-07 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-0F-EA-1A-1F-9F ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-0F-EA-19-C0-12 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-0F-EA-19-BA-D4 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-0F-EA-19-AA-E5 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-01-02-44-65-29 ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+
+WakeUp 00-80-77-38-A0-8C ...
+Result: A socket operation was attempted to an unreachable host
+Ready.
+

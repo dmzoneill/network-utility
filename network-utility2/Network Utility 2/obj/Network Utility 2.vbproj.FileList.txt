@@ -1,0 +1,10 @@
+bin\Debug\Network Utility 2.exe
+bin\Debug\Network Utility 2.pdb
+bin\Debug\Network Utility 2.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Network_Utility_2.Form1.resources
+obj\Debug\Network_Utility_2.Resources.resources
+obj\Debug\Network Utility 2.vbproj.GenerateResource.Cache
+obj\Debug\Network Utility 2.exe
+obj\Debug\Network Utility 2.xml
+obj\Debug\Network Utility 2.pdb
