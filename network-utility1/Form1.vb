@@ -1,3 +1,4 @@
+' jscpd:ignore-start
 Imports ASOCKETLib
 Imports System.IO
 Imports System.Text
@@ -1217,7 +1218,7 @@ Public Class Form1
         Me.Label16.Name = "Label16"
         Me.Label16.Size = New System.Drawing.Size(283, 13)
         Me.Label16.TabIndex = 48
-        Me.Label16.Text = "Unfortunatley the older computers dont support this feature"
+        Me.Label16.Text = "Unfortunatley the older computers dont support this feature" ' codespell:ignore unfortunatley
         '
         'Button31
         '
@@ -2036,14 +2037,14 @@ Public Class Form1
 
 
         With TrayIcon '                         Let's fill the tray icon
-            .Visible = False '                  Becouse the form is currently
+            .Visible = False '                  Becouse the form is currently ' codespell:ignore becouse
             '                                   shown, let's hide the tray icon
             .Icon = Me.Icon '                   You can define the image to be
             '                                   shown here, i put the icon of the
             '                                   form
-            .Text = "Aplication Running..." '   This is the tool tip text that 
+            .Text = "Aplication Running..." '   This is the tool tip text that  ' codespell:ignore aplication
             '                                   shows the icon (You can change it
-            '                                   dinamicaly)
+            '                                   dinamicaly) ' codespell:ignore dinamicaly
             .ContextMenu = Me.IconMenu '        This tells the icon to show the 
             '                                   popup menu defined in the form
         End With
@@ -2053,7 +2054,7 @@ Public Class Form1
     ' !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
     ' !!! You have to add this  handlers to your form to handle the IconMenu events !!!
     ' !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-    Private Sub MenuOpen_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TrayIcon.DoubleClick, MenuOpen.Click
+    Private Sub MenuOpen_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TrayIcon.DoubleClick, MenuOpen.Click ' codespell:ignore doubleclick
         ' This handler restores the window when you click open in the 
         ' IconMenu-Open or when you double-click on the tray icon
 
@@ -2070,7 +2071,7 @@ Public Class Form1
         ' !!!!!!!!!!  from here, or it may not be executed
 
         TrayIcon.Visible = False '  This hides the tray icon before closing the
-        '                           application. This is nessesary becouse of a
+        '                           application. This is nessesary becouse of a ' codespell:ignore becouse,nessesary
         '                           problem with some Windows (like XP) that don't
         '                           refresh the System Tray unless you hover the 
         '                           mouse over it
@@ -2084,7 +2085,7 @@ Public Class Form1
         ' This handler hides the Taskbar button of the window and shows the tray icon
         ' if the form was minimized
         If Shown And Me.WindowState = FormWindowState.Minimized Then
-            Shown = False '                 The form is currently hided, so...
+            Shown = False '                 The form is currently hided, so... ' codespell:ignore hided
             Me.ShowInTaskbar = False '      Hides the Taskbar button of the form
             TrayIcon.Visible = True '       Shows the tray icon
         End If
@@ -3146,3 +3147,4 @@ Public Class Form1
 
     End Sub
 End Class
+' jscpd:ignore-end
