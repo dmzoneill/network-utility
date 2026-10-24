@@ -1,3 +1,4 @@
+' jscpd:ignore-start
 Imports ASOCKETLib
 Imports System.IO
 Imports System.Text
@@ -3146,3 +3147,4 @@ Public Class Form1
 
     End Sub
 End Class
+' jscpd:ignore-end
