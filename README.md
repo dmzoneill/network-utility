@@ -1,5 +1,9 @@
 # Network Utility
 
+<p align="center">
+  <img src=".github/logo.png" alt="network-utility logo" width="128" />
+</p>
+
 A Windows Forms network diagnostics toolkit that wraps common Windows
 networking commands in a tabbed GUI.
 
